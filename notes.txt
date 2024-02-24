@@ -1,0 +1,35 @@
+# Admin:
+
+admin
+Pass123!
+9d992334cd91f904b102d7ef66c7d8caa768e6e6
+
+### Manager:
+
+john_dow
+Pass321!
+e95dc057a39ce8ac804722bf30a167ea8cf93e9f
+
+### Delivery crew:
+
+handyman
+Pass333!
+498b62bb2f6a89575f2fb06fd6291b65d9540752
+
+randy
+Pass222!
+a04ec3d884005ea51ab1de5a32388f4a6d7aeb0b
+
+### Customers:
+
+customer1
+Pass111!
+fee1f5dde353c28ab6cb5a0c029929bd63ec1533
+
+customer2
+Pass000!
+9543fcd3c3aaaf1f973c08329fb19ffacde77d33
+
+tester
+pass444!
+132ac15312e5c6185b6410e3575a717385df2663
